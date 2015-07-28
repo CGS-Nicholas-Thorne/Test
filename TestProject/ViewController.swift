@@ -25,6 +25,12 @@ class ViewController: UIViewController {
         println("Jebus")
         
     }
+    
+    func bugfixZ() {
+        
+        println("test")
+        
+    }
 
 
 }

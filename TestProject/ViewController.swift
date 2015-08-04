@@ -37,6 +37,12 @@ class ViewController: UIViewController {
         println("test")
         
     }
+    
+    func theLOLzAndTROLLz() {
+        
+        println("lol")
+        
+    }
 
 
 }
